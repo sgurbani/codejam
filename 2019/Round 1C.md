@@ -2,9 +2,11 @@
 
 | Problem   |   Test Set 1 | Test Set 2 |
 |----------|:-----:|:----:|
-| [Robot Programming Strategy](https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134c90) |  :white_check_mark: | :white_check_mark: |
+| [Robot Programming Strategy](https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134c90) |  :white_check_mark: | :ballot_box_with_check: |
 | [Power Arrangers](https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134e91) |    :white_check_mark: | :white_check_mark:|
 | [Bacterial Tactics](https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134cdf) | Not attempted | Not attempted |
+
+Regarding Robot Programming Strategy - I missed the submission timeline for this one by just a couple minutes, so I didn't get the points for Test Set 2 (I had used a different brute force approach to ensure the points for Test Set 1, then went back to try and come up with a better solution for the problem); however, the solution correctly passed through the validator afterwards, so I'm including it here for posterity.
 
 ## Robot Programming Strategy
 
